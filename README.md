@@ -1,5 +1,3 @@
-
-
 <!--
 **AftabAhamedG/AftabAhamedG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,14 +17,12 @@ Here are some ideas to get you started:
 <p align='center'>
 
 </p>
-<div size='20px'> Hi! I am Aftab G. How u doin? Welcome to my github profile :smile: 
+<div size='20px'> Hi! I am Aftab. How u doin? Welcome to my github profile :smile: 
 </div>
 
-- ⚡ I love playing Football and PC games :sports"
+- ⚽ I love playing Football and PC games 🎮
 
-- 🌱 I’m currently learning Data Analysis, Web development.
-
-- 👯 I’m looking to collaborate on Projects,Tech Articles. 
+- 🌱 I’m currently learning Web development.
 
 - 💬 Talk to me about C, Cpp, Html, CSS, Python and Memes. 
 
