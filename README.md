@@ -22,12 +22,13 @@ Here are some ideas to get you started:
 <div size='20px'> Hi! I am Aftab G. How u doin? Welcome to my github profile :smile: 
 </div>
 
+- ⚡ I love playing Football and PC games :sports"
+
 - 🌱 I’m currently learning Data Analysis, Web development.
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles. 
 
 - 💬 Talk to me about C, Cpp, Html, CSS, Python and Memes. 
-
 
 ### Connect with me.
 <a href = 'https://www.linkedin.com/in/aftab-ahamed-g-93a525224/'>LinkedIn</a> 
