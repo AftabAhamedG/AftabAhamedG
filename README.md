@@ -19,18 +19,18 @@ Here are some ideas to get you started:
 <p align='center'>
 
 </p>
-<div size='20px'> Hi! I am Aftab G. How u doin? :smile: 
+<div size='20px'> Hi! I am Aftab G. How u doin? Welcome to my github profile :smile: 
 </div>
 
-- 🌱 I’m currently learning Data Science,AWS,Data Engineering 
+- 🌱 I’m currently learning Data Analysis, Web development.
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles. 
 
-- 💬 Talk to me about C, Cpp, Python, JavaScript, Open Source and Memes. 
+- 💬 Talk to me about C, Cpp, Html, CSS, Python and Memes. 
 
 
 ### Connect with me.
-<a href = 'https://www.linkedin.com/in/ashish-galagali'>LinkedIn</a> 
-<a href = 'https://www.twitter.com/ashishjg_x'>Twitter</a> 
-<a href = 'ashishjg.netlify.app'> Website</a> 
+<a href = 'https://www.linkedin.com/in/aftab-ahamed-g-93a525224/'>LinkedIn</a> 
+/*<a href = ''>Twitter</a> */
+/*<a href = 'ashishjg.netlify.app'> Website</a> */
  
