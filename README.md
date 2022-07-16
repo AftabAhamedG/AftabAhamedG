@@ -31,6 +31,3 @@ Here are some ideas to get you started:
 
 ### Connect with me.
 <a href = 'https://www.linkedin.com/in/aftab-ahamed-g-93a525224/'>LinkedIn</a> 
-/*<a href = ''>Twitter</a> */
-/*<a href = 'ashishjg.netlify.app'> Website</a> */
- 
