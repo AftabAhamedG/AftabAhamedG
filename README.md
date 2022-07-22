@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Web development.
 
-- 💬 Talk to me about C, Cpp, Html, CSS, Python and Memes. 
+- 💬 Talk to me about C, Cpp, Html, CSS, Python, Memes and Games.
 
 ### Connect with me.
 <a href = 'https://www.linkedin.com/in/aftab-ahamed-g-93a525224/'>LinkedIn</a> 
